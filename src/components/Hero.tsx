@@ -15,7 +15,7 @@ export const Hero = () => {
         Developer and Creator
       </h2>
       <p>
-        I'm a passionate and dedicated developer with experience in various
+        Im a passionate and dedicated developer with experience in various
         programming languages and frameworks.
       </p>
     </Section>
