@@ -8,7 +8,7 @@ export const MyTools = () => {
           <h1 className="font-extrabold text-2xl">Code</h1>
           <ul className="py-5 font-semibold list-disc list-inside">
             <li>Visual Studio Code</li>
-            <li>Github's Copilot</li>
+            <li>Github Copilot</li>
             <li>Github</li>
             <li>Git</li>
           </ul>
